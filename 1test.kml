@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <name>Sample 5 Points</name>
+
     <Placemark>
       <name>London</name>
       <Point>
         <coordinates>-0.1275862,51.5072178,0</coordinates>
       </Point>
     </Placemark>
+
     <Placemark>
-      <name>8524 Uesslingen</name>
+      <name>Tokyo</name>
       <Point>
-        <coordinates>8.83161,47.58024,0</coordinates>
+        <coordinates>139.6917,35.6895,0</coordinates>
       </Point>
     </Placemark>
+
+    <Placemark>
+      <name>New York</name>
+      <Point>
+        <coordinates>-74.0060,40.7128,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sydney</name>
+      <Point>
+        <coordinates>151.2093,-33.8688,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cape Town</name>
+      <Point>
+        <coordinates>18.4241,-33.9249,0</coordinates>
+      </Point>
+    </Placemark>
+
   </Document>
 </kml>
